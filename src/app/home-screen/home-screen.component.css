@@ -1,0 +1,21 @@
+.btn-toolbar{
+    justify-content: center;
+}
+#mobile{
+    margin: 10% auto;
+    margin-bottom: 15%;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 150%;
+
+}
+button{
+    margin-bottom: 10%;
+    width: 10%;
+}
+a{
+    color: blue;
+    text-align: center;
+    margin: 0 auto;
+
+}

@@ -1,0 +1,69 @@
+h6{
+    display: block;
+    text-align: center;
+    font-size: 130%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    margin-bottom: 0px;
+}
+#topBar{
+    margin-top: 0%;
+    background-color: #F8F9FA;
+}
+i{
+    float: right;
+    margin-right: 7%;
+    position: relative;
+    bottom: 25px;
+    font-size: 130%;
+}
+#messages{
+    position: relative;
+    bottom: 20px;
+}
+.day{
+    float: right;
+    font-weight: normal;
+    font-size: 100%;
+}
+.lastItem{
+    margin-bottom: 6%;
+}
+.fas{
+    display: inline;
+    position: relative;
+    top: 6px;
+    margin-right: 0px;
+}
+.fa-caret-left{
+    font-size: 200%;
+}
+.card{
+    margin: 0 auto;
+}
+#leftArrow{
+    margin-left: 25%;
+}
+#square{
+    margin-right: 25%;
+}
+#icons{
+    height: 5%;
+    /* width: 100%; */
+}
+#icons2{
+    width: 100%;
+}
+li{
+    padding: 2%;
+    border: none;
+}
+.fRight{
+    width: 10%;
+    margin-right: 2%;
+    
+}
+.bold{
+    font-weight: bold;
+}
+

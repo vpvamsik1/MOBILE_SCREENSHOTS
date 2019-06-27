@@ -1,0 +1,39 @@
+
+#square{
+    margin-right: 20%;
+}
+.fa-arrow-alt-circle-up{
+    color: #0B93F6;
+}
+i{
+    font-size: 130%;
+}
+#leftArrow{
+    margin-left: 20%;
+    font-size: 200%;
+}
+.inlBlock{
+    display: inline-block;
+    width:5%;
+    text-align: center;
+}
+input{
+    width: 81%;
+    margin-left: 5%
+}
+.fa-clock, .fa-address-book{
+    font-size: 150%;
+}
+#fav4{
+    color: blue;
+    font-weight: bold;
+}
+.fa-clock{
+    font-size: 180%;
+}
+.fa-star{
+    
+}
+/* #navbar3{
+    display: inline;
+} */

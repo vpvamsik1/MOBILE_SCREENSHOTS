@@ -1,0 +1,47 @@
+
+#square{
+    margin-right: 20%;
+}
+i{
+    font-size: 130%;
+}
+#leftArrow{
+    margin-left: 20%;
+    font-size: 200%;
+}
+.inlBlock{
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+}
+#fav{
+    width: 20%;
+}
+#fav2{
+    width: 21%;
+}
+#fav3{
+    width: 21%;
+}
+#fav4{
+    color: blue;
+    font-weight: bold;
+    width: 20%;
+}
+.fa-clock, .fa-address-book{
+    font-size: 150%;
+}
+
+.fa-clock{
+    font-size: 180%;
+}
+.fa-star{
+    /* margin-bottom: 10%; */
+}
+#favText{
+    position: relative;
+    top: 5px;
+}
+/* #navbar3{
+    display: inline;
+} */
